@@ -1,8 +1,8 @@
-﻿# acl-abuser
+# acl-abuser
 
 > Red team security tool — authorized use only.
 
-`ash
+```bash
 python acl_abuser.py --help
 ```
 
