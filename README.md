@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="acl-abuser" width="800">
+</div>
+
 # acl-abuser
 
 > Red team security tool — authorized use only.
